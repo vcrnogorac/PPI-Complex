@@ -1,0 +1,13 @@
+Овдје се налазе скрипте statistika_testiranje.exe и statistika_testiranje.py.
+Наведене скрипте служе за креирање excel датотеке како садржи статистику тестирања.
+Скрипте не захтијавају улазне параметре.
+
+Овдје се такође налазе скрипте zajednicke_dodane_grane.exe и zajednicke_dodane_grane.py.
+Ове скрипте можемо покренути на сљедећи начин:
+	zajednicke_dodane_grane wiphi_mips string11_mips biogrid_mips
+	zajednicke_dodane_grane wiphi_mips string11_mips
+	zajednicke_dodane_grane string11_mips biogrid_mips
+	итд.
+	или користећи пајтон.
+
+Резултат извршавања обје(све четири) скрепте се чувају у фолдеру ../results_of_execute_scripts
